@@ -1,0 +1,16 @@
+h2{
+    color: blue;
+}
+
+.odd{
+   color: red; 
+}
+
+.even{
+    color: green;
+}
+
+#paragraph3, #paragraph5{
+    color:fuchsia;
+    border: 2px dashed pink;
+}
